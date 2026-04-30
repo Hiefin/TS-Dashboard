@@ -1,10 +1,13 @@
 To view this Dashboard:
 Visit : https://hiefin.github.io/TS-Dashboard/
 
+
 When ready click the auto:off button. 
 Or you can choose to Emit A specific event type.
 This will start collecting events.
 The graphs will update and show real time data.
+
+8 Default Values populate the graphs at initilization.
 
 Thank you for reading.
 
